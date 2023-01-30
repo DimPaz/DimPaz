@@ -11,7 +11,8 @@ About me
 ![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
 ![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=NPM)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
-![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack)
 ![Visualstudio](https://img.shields.io/badge/-Visual_studio-090909?style=for-the-badge&logo=Visualstudio&logoColor=824cc5)
+
+<!-- ![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack) -->
 
 Foollow Me
