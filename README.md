@@ -13,6 +13,7 @@ About me
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
 ![Visualstudio](https://img.shields.io/badge/-Visual_studio-090909?style=for-the-badge&logo=Visualstudio&logoColor=824cc5)
 
-<!-- ![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack) -->
-
 Foollow Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/DMITRIPAZ)
+[![vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/dimpaz)
