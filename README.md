@@ -1,13 +1,13 @@
 <h1 align="center">Всем привет, меня зовут Дмитрий <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28px"></h1>
 
-## 👨‍💻 О себе
+## О себе
 
 Я Junior Frontend-разработчик. Хочу создавать интуитивно понятные и дружелюбные для пользователя цифровые продукты, которые мы используем в повседневной жизни. На данный момент закончил обучение в Яндекс Практикуме на курсе [Веб-разработчик](https://practicum.yandex.ru/web/).
 
 ### Как со мной связаться
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram)](https://t.me/DMITRIPAZ)
-[![vkontakte](https://img.shields.io/badge/-vkontakte-090909?style=for-the-badge&logo=vk&logoColor=4F7DB3)](https://vk.com/dimpaz)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=plaflat-squarestic&logo=Telegram)](https://t.me/DMITRIPAZ)
+[![vkontakte](https://img.shields.io/badge/-VKontakte-090909?style=flat-square&logo=vk&logoColor=4F7DB3)](https://vk.com/dimpaz)
 
 ### 🎯 Мои цели
 
