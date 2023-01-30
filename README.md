@@ -1,16 +1,17 @@
-### Hi there 👋
+Header
 
-<!--
-**DimPaz/DimPaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me
 
-Here are some ideas to get you started:
+### Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=039be5)
+![JS](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git)
+![Node.js](https://img.shields.io/badge/-Node.js-090909?style=for-the-badge&logo=Node.js)
+![NPM](https://img.shields.io/badge/-NPM-090909?style=for-the-badge&logo=NPM)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![WebPack](https://img.shields.io/badge/-WebPack-090909?style=for-the-badge&logo=WebPack)
+![Visualstudio](https://img.shields.io/badge/-Visual_studio-090909?style=for-the-badge&logo=Visualstudio&logoColor=824cc5)
+
+Foollow Me
