@@ -7,7 +7,7 @@
 ### Как со мной связаться
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=plaflat-squarestic&logo=Telegram)](https://t.me/DMITRIPAZ)
-[![vkontakte](https://img.shields.io/badge/-VKontakte-090909?style=flat-square&logo=vk&logoColor=4F7DB3)](https://vk.com/dimpaz)
+[![vkontakte](https://img.shields.io/badge/-VKontakte-090909?style=plaflat-squarestic&logo=vk&logoColor=4F7DB3)](https://vk.com/dimpaz)
 
 ### 🎯 Мои цели
 
